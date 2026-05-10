@@ -1,0 +1,11 @@
+Name: Rahul
+
+Skills:
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Git
+
+Experience: 2 years

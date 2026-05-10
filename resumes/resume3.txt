@@ -1,0 +1,10 @@
+Name: Sneha
+
+Skills:
+Python
+SQL
+Excel
+Power BI
+Communication
+
+Experience: 3 years
