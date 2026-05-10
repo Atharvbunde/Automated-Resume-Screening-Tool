@@ -233,7 +233,7 @@ outputs/summary_report.txt
 
 ## Python Code
 
-![Python Code](images/python.png)
+![Python Code](images/pythone.png)
 
 ---
 
